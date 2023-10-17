@@ -1,4 +1,4 @@
-package threading;
+package source.main.java.threading;
 
 public class ScanThread extends Thread{
     @Override

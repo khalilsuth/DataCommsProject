@@ -1,4 +1,4 @@
-package model;
+package source.main.java.model;
 
 public class Device {
     private String ipAddress;

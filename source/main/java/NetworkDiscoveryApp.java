@@ -1,3 +1,5 @@
+package source.main.java;
+
 public class NetworkDiscoveryApp {
 
     public static void main(String[] args) {
